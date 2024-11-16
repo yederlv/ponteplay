@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Eternamente Solo",
+        "artist": "Plutonio de Alto Grado",
+        "genre": "Rock",
+        "url": "/music/song1.mp3",
+        "albumCover": "/images/album1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Verte Así",
+        "artist": "Temple Sour",
+        "genre": "Reggae",
+        "url": "/music/song2.mp3",
+        "albumCover": "/images/album2.jpg"
+    }
+]
